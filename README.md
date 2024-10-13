@@ -4,7 +4,7 @@
 ```
 # Create a Role
 
-````
+```
  ansible-galaxy init nginx
 ```
 
